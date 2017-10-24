@@ -1,2 +1,2 @@
 # Hello-World
-My first repository based on coding.
+My 1st repository based on coding.
